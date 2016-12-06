@@ -357,6 +357,7 @@ class Personnage:
 """
 world = World()
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 imageBlock = list()
 imageBlock.append(ImageBlock("0", False))
@@ -393,6 +394,8 @@ carte.affichecarte()
 player[0].dessine()
 player[1].dessine()
 
+=======
+>>>>>>> asassoye/master
 =======
 >>>>>>> asassoye/master
 world.start()
